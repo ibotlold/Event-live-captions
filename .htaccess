@@ -1,0 +1,13 @@
+RewriteEngine On
+
+<Files .htaccess>
+Order Allow,Deny
+Deny from all
+</Files>
+
+
+RewriteRule ^(?!service)(\w){7}$ index.php?id=$1
+
+# mysql user password
+# writer
+# taZzDDnANev3o6oT

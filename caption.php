@@ -1,0 +1,2 @@
+<div class="caption header"><h1>Event title</h1></div>
+<div class="caption status" id="none" tabindex="0" aria-describedby="statusTip"><div class="tip" id="statusTip">Мероприятие не началось</div></div>
