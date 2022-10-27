@@ -1,0 +1,21 @@
+{
+  "name": "event-live-captions",
+  "version": "0.0.0",
+  "description": "Web app provides live captions through Chrome's Google Cloud Speech API.",
+  "main": "app.js",
+  "private": "true",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibotlold/Event-live-captions.git"
+  },
+  "keywords": [
+    "live-captions",
+    "speech-to-text"
+  ],
+  "author": "Kirill Prokopev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibotlold/Event-live-captions/issues"
+  },
+  "homepage": "https://github.com/ibotlold/Event-live-captions#readme"
+}
