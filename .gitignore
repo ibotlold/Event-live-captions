@@ -1,4 +1,5 @@
 # vscode ignore list
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
