@@ -50,9 +50,5 @@
     "speech-to-text"
   ],
   "author": "Kirill Prokopev",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ibotlold/Event-live-captions/issues"
-  },
-  "homepage": "https://github.com/ibotlold/Event-live-captions#readme"
+  "license": "MIT"
 }
